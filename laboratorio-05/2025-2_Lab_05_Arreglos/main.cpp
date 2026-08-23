@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------------------------*/
-/*  Nombre          :   Naim Diestra
-/*  Fecha           :   11/12/2025
+/*  Elaborado por   :   Naim Diestra
+/*  Fecha creación  :   11/12/2025
 /*  Actualizacion   :   02/05/2026
 /*  Descripcion     :   Se almacenan en arrays los datos de Streams.txt y se completan los
 /*                      arrays auxiliares con Canales.txt y se emite un reporte final.
