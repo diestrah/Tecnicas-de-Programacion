@@ -1,10 +1,10 @@
-/*------------------------------------------------------------------------------------*/
-/*  Nombre      :   Naim Diestra
-/*  Fecha       :   12/12/2025
-/*  Descripcion :   Se almacenan en arrays los datos de Streams.txt y se completan los
-/*                  arrays auxiliares con Canales.txt y se emite un reporte final.
-/*                  Se refuerza el ordenamiento de datos y la inserción ordenada.
-/*------------------------------------------------------------------------------------*/
+/*---------------------------------------------------------------------------------------*/
+/*  Elaborado por   :   Naim Diestra
+/*  Fecha creación  :   12/12/2025
+/*  Descripcion     :   Se almacenan en arrays los datos de Streams.txt y se completan los
+/*                      arrays auxiliares con Canales.txt y se emite un reporte final.
+/*                      Se refuerza el ordenamiento de datos y la inserción ordenada.
+/*---------------------------------------------------------------------------------------*/
 
 #include "Bibliotecas/FuncionesAuxiliares.h"
 #define MAX_CANAL 120
