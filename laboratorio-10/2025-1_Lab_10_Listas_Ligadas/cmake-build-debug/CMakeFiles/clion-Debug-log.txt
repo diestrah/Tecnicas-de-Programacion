@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Gonza\Documents\PUCP\Curriculum\GITHUB\01-tecnicas-de-programacion\laboratorio-10\2025-1_Lab_10_Listas_Ligadas Select CMakeLists.txt
