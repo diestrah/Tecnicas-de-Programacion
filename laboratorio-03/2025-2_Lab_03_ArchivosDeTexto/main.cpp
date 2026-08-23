@@ -1,8 +1,8 @@
 /*----------------------------------------------------------------------------------------*/
-/*  Autor :   Naim Diestra
+/*  Elaborado por       :  Naim Diestra
 /*  Fecha creación      :  17/01/2026 
 /*  Fecha actualización :  18/01/2026
-/*  Nota: Hay un error de impresión del primer canal, de ahí, todo chill
+/*  Nota: Hay un error de impresión del primer canal, de ahí, todo ok
 /*----------------------------------------------------------------------------------------*/
 
 #include "Bibliotecas/FuncionesAuxiliares.h"
