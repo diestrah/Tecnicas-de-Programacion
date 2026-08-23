@@ -1,5 +1,5 @@
 /*--------------------------------------------------------------------------------------------------*/
-/*  Autor           :   Naim Diestra
+/*  Elaborado por   :   Naim Diestra
 /*  Fecha creación  :   11/12/2025
 /*  Actualización   :   02/05/2026
 /*  Descripción     :   Se almacenan los datos de los archivos Categorias.txt y Reproducciones.txt
