@@ -1,0 +1,873 @@
+                                                                       PLATAFORMA TP_Twitch
+                                                                REGISTRO DE LOS CANALES AFILIADOS
+                                                     FECHAS DE CREACION ENTRE EL 01/01/2023 Y EL 01/01/2024
+                                      TARIFA POR NÚMERO DE REPRODUCCIONES: 0.20 POR CADA 1,000 REPRODUCCIONES Y FRACCION
+                                                TARIFA POR DURACION DEL STREAM: 0.50 POR CADA MINUTO Y FRACCION
+======================================================================================================================================================
+CANAL No 1
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      GAULES                        G8611       02/08/2023                  1370184                      89705964                        310998
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           16/07/2025                         00:29:13                         14.61                          1.18
+           18/08/2025                         01:19:06                         39.55                          3.85
+           21/07/2025                         00:27:49                         13.91                          0.26
+           02/08/2025                         00:35:20                         17.67                          3.68
+           16/07/2025                         02:08:01                         64.01                          2.16
+           26/08/2025                         00:54:28                         27.23                          1.72
+           28/08/2025                         00:25:56                         12.97                          3.61
+           21/08/2025                         01:39:02                         49.52                          3.47
+           23/08/2025                         01:57:25                         58.71                          2.90
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 09:56:20
+     INGRESOS POR DURACION                 $ 298.17
+     TOTAL DE REPRODUCCIONES                 114138
+     INGRESOS POR PUBLICIDAD               $  22.83
+     ENGAGEMENT INDEX                          7.29
+
+======================================================================================================================================================
+CANAL No 2
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      ONSCREEN                      O2649       10/12/2023                  1089824                      46084211                        115633
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           24/08/2025                         02:12:34                         66.28                          1.73
+           04/08/2025                         02:28:17                         74.14                          1.54
+           30/08/2025                         00:03:28                          1.73                          1.60
+           12/08/2025                         00:24:30                         12.25                          1.43
+           08/08/2025                         01:19:35                         39.79                          1.34
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 06:28:24
+     INGRESOS POR DURACION                 $ 194.20
+     TOTAL DE REPRODUCCIONES                  38239
+     INGRESOS POR PUBLICIDAD               $   7.65
+     ENGAGEMENT INDEX                         13.41
+
+======================================================================================================================================================
+CANAL No 3
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      NICKMERCS                     N3735       13/10/2023                   951730                      51349926                         89387
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           11/08/2025                         01:56:15                         58.12                          2.64
+           24/08/2025                         00:17:49                          8.91                          1.11
+           21/08/2025                         01:31:02                         45.52                          1.36
+           03/08/2025                         02:18:33                         69.28                          0.76
+           27/07/2025                         01:55:53                         57.94                          2.15
+           12/08/2025                         00:36:47                         18.39                          3.91
+           27/07/2025                         00:35:22                         17.68                          2.93
+           30/08/2025                         01:22:44                         41.37                          1.11
+           22/07/2025                         00:20:26                         10.22                          3.60
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 10:54:51
+     INGRESOS POR DURACION                 $ 327.42
+     TOTAL DE REPRODUCCIONES                  97844
+     INGRESOS POR PUBLICIDAD               $  19.57
+     ENGAGEMENT INDEX                         16.39
+
+======================================================================================================================================================
+CANAL No 4
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      WEPLAYESPORT_RU               W8743       17/12/2023                  1244341                      50119786                        142067
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           02/09/2025                         00:24:39                         12.32                          3.60
+           29/07/2025                         01:49:35                         54.79                          0.76
+           23/08/2025                         01:21:43                         40.86                          2.39
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 03:35:57
+     INGRESOS POR DURACION                 $ 107.97
+     TOTAL DE REPRODUCCIONES                  33767
+     INGRESOS POR PUBLICIDAD               $   6.75
+     ENGAGEMENT INDEX                         12.29
+
+======================================================================================================================================================
+CANAL No 5
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      TFUE                          T2096       22/03/2023                   497678                      56855694                        639375
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           01/08/2025                         01:49:29                         54.74                          0.62
+           15/07/2025                         01:53:59                         56.99                          0.16
+           07/08/2025                         01:49:40                         54.83                          3.07
+           27/07/2025                         01:13:19                         36.66                          2.34
+           21/07/2025                         01:26:44                         43.37                          0.40
+           04/08/2025                         00:04:02                          2.02                          3.46
+           03/08/2025                         01:39:08                         49.57                          0.91
+           25/07/2025                         00:24:55                         12.46                          1.85
+           22/08/2025                         01:48:38                         54.32                          2.92
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 12:09:54
+     INGRESOS POR DURACION                 $ 364.95
+     TOTAL DE REPRODUCCIONES                  78707
+     INGRESOS POR PUBLICIDAD               $  15.74
+     ENGAGEMENT INDEX                          1.67
+
+======================================================================================================================================================
+CANAL No 6
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      SACRIEL                       S1419       28/01/2023                  3820532                      58599449                        240096
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           02/08/2025                         02:04:46                         62.38                          0.90
+           24/07/2025                         00:34:56                         17.47                          0.86
+           11/08/2025                         01:55:42                         57.85                          3.59
+           06/08/2025                         01:42:20                         51.17                          2.67
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 06:17:44
+     INGRESOS POR DURACION                 $ 188.87
+     TOTAL DE REPRODUCCIONES                  40083
+     INGRESOS POR PUBLICIDAD               $   8.02
+     ENGAGEMENT INDEX                         18.35
+
+======================================================================================================================================================
+CANAL No 7
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      MONTANABLACK88                M8898       02/02/2023                  3966525                      41514854                        170115
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           13/08/2025                         00:56:28                         28.23                          2.96
+           27/07/2025                         01:47:35                         53.79                          2.34
+           28/07/2025                         02:07:10                         63.58                          3.79
+           05/08/2025                         00:03:47                          1.89                          2.81
+           01/08/2025                         01:00:51                         30.43                          2.63
+           29/08/2025                         01:00:58                         30.48                          2.88
+           28/08/2025                         01:04:49                         32.41                          0.67
+           14/08/2025                         00:55:28                         27.73                          0.80
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 08:57:06
+     INGRESOS POR DURACION                 $ 268.55
+     TOTAL DE REPRODUCCIONES                  94427
+     INGRESOS POR PUBLICIDAD               $  18.89
+     ENGAGEMENT INDEX                         25.76
+
+======================================================================================================================================================
+CANAL No 8
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      FORSEN                        F9775       13/10/2023                  1101093                      37189666                        181600
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           21/07/2025                         00:08:37                          4.31                          3.65
+           14/08/2025                         02:07:09                         63.58                          3.28
+           31/08/2025                         01:59:55                         59.96                          3.83
+           26/08/2025                         01:11:50                         35.92                          2.89
+           20/08/2025                         00:10:03                          5.03                          0.87
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 05:37:34
+     INGRESOS POR DURACION                 $ 168.78
+     TOTAL DE REPRODUCCIONES                  72651
+     INGRESOS POR PUBLICIDAD               $  14.53
+     ENGAGEMENT INDEX                          8.11
+
+======================================================================================================================================================
+CANAL No 9
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      LVNDMARK                      L4925       26/04/2023                   236169                      39334821                        107833
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           06/08/2025                         00:00:41                          0.34                          2.17
+           23/07/2025                         01:20:37                         40.31                          3.41
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 01:21:18
+     INGRESOS POR DURACION                 $  40.65
+     TOTAL DE REPRODUCCIONES                  27936
+     INGRESOS POR PUBLICIDAD               $   5.59
+     ENGAGEMENT INDEX                          5.84
+
+======================================================================================================================================================
+CANAL No 10
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      TMXK319                       T3235       16/08/2023                  1325075                      46515698                         89153
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           13/08/2025                         00:53:58                         26.98                          1.67
+           25/07/2025                         00:57:58                         28.98                          1.51
+           15/07/2025                         00:07:20                          3.67                          0.23
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 01:59:16
+     INGRESOS POR DURACION                 $  59.63
+     TOTAL DE REPRODUCCIONES                  16987
+     INGRESOS POR PUBLICIDAD               $   3.40
+     ENGAGEMENT INDEX                         20.08
+
+======================================================================================================================================================
+CANAL No 11
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      THEREALKNOSSI                 T1288       09/10/2023                  1082039                      25342894                        288459
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           02/08/2025                         02:02:21                         61.17                          1.44
+           01/09/2025                         00:06:35                          3.29                          2.82
+           23/07/2025                         01:31:30                         45.75                          0.55
+           22/07/2025                         00:27:36                         13.80                          3.21
+           26/08/2025                         01:14:17                         37.14                          3.54
+           07/08/2025                         00:03:06                          1.55                          3.42
+           08/08/2025                         01:57:41                         58.84                          3.54
+           01/08/2025                         00:29:25                         14.71                          1.83
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 07:52:31
+     INGRESOS POR DURACION                 $ 236.26
+     TOTAL DE REPRODUCCIONES                 101689
+     INGRESOS POR PUBLICIDAD               $  20.34
+     ENGAGEMENT INDEX                          4.63
+
+======================================================================================================================================================
+CANAL No 12
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      NOWAY4U_SIR                   N8343       25/02/2023                   383130                      38499423                        123796
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           27/07/2025                         01:49:03                         54.52                          3.39
+           27/07/2025                         01:10:12                         35.10                          3.45
+           17/08/2025                         02:09:33                         64.78                          3.03
+           07/08/2025                         02:03:18                         61.65                          0.22
+           25/07/2025                         00:00:35                          0.29                          0.46
+           30/07/2025                         01:49:26                         54.72                          0.73
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 09:02:07
+     INGRESOS POR DURACION                 $ 271.06
+     TOTAL DE REPRODUCCIONES                  56408
+     INGRESOS POR PUBLICIDAD               $  11.28
+     ENGAGEMENT INDEX                          6.20
+
+======================================================================================================================================================
+CANAL No 13
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      ESFANDTV                      E3499       19/08/2023                    73602                      30610352                         44976
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           30/07/2025                         00:43:12                         21.60                          3.59
+           31/08/2025                         00:13:55                          6.96                          1.80
+           22/08/2025                         00:51:02                         25.52                          3.82
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 01:48:09
+     INGRESOS POR DURACION                 $  54.08
+     TOTAL DE REPRODUCCIONES                  46009
+     INGRESOS POR PUBLICIDAD               $   9.20
+     ENGAGEMENT INDEX                          8.44
+
+======================================================================================================================================================
+CANAL No 14
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      ELAJJAZ                       E2815       02/09/2023                   370358                      32261961                        144066
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           17/07/2025                         01:33:07                         46.56                          1.12
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 01:33:07
+     INGRESOS POR DURACION                 $  46.56
+     TOTAL DE REPRODUCCIONES                   5586
+     INGRESOS POR PUBLICIDAD               $   1.12
+     ENGAGEMENT INDEX                          4.81
+
+======================================================================================================================================================
+CANAL No 15
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      GOTAGA                        G1997       26/04/2023                   412101                      57189129                        206681
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           30/07/2025                         00:07:04                          3.53                          0.45
+           28/08/2025                         01:04:06                         32.05                          1.68
+           16/08/2025                         02:12:48                         66.40                          3.09
+           23/07/2025                         01:07:19                         33.66                          3.33
+           15/07/2025                         01:09:24                         34.70                          3.17
+           22/08/2025                         00:05:44                          2.87                          2.82
+           22/07/2025                         00:52:30                         26.25                          2.86
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 06:38:55
+     INGRESOS POR DURACION                 $ 199.46
+     TOTAL DE REPRODUCCIONES                  86916
+     INGRESOS POR PUBLICIDAD               $  17.38
+     ENGAGEMENT INDEX                          4.76
+
+======================================================================================================================================================
+CANAL No 16
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      HANRYANG1125                  H5018       09/02/2023                   447601                      42952835                        364816
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           20/08/2025                         00:38:23                         19.19                          2.34
+           21/08/2025                         00:00:49                          0.41                          2.63
+           24/07/2025                         01:19:56                         39.97                          1.48
+           26/08/2025                         02:16:06                         68.05                          0.41
+           07/08/2025                         00:15:59                          7.99                          0.24
+           27/07/2025                         02:07:29                         63.74                          3.94
+           17/08/2025                         00:01:07                          0.56                          0.71
+           23/08/2025                         01:14:01                         37.01                          0.54
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 07:53:50
+     INGRESOS POR DURACION                 $ 236.92
+     TOTAL DE REPRODUCCIONES                  61450
+     INGRESOS POR PUBLICIDAD               $  12.29
+     ENGAGEMENT INDEX                          2.40
+
+======================================================================================================================================================
+CANAL No 17
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      CELLBIT                       C6001       15/01/2023                    97615                      30550147                         25482
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           31/07/2025                         01:26:21                         43.17                          3.34
+           26/08/2025                         01:58:50                         59.42                          0.32
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 03:25:11
+     INGRESOS POR DURACION                 $ 102.59
+     TOTAL DE REPRODUCCIONES                  18290
+     INGRESOS POR PUBLICIDAD               $   3.66
+     ENGAGEMENT INDEX                         15.82
+
+======================================================================================================================================================
+CANAL No 18
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      DREAMHACKCS                   D3981       02/04/2023                    72454                      12853095                         21053
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           27/07/2025                         00:07:48                          3.90                          3.33
+           02/08/2025                         00:30:07                         15.06                          2.12
+           20/08/2025                         00:34:09                         17.07                          2.35
+           10/08/2025                         01:25:53                         42.94                          2.06
+           24/07/2025                         01:03:46                         31.88                          3.85
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 03:41:43
+     INGRESOS POR DURACION                 $ 110.86
+     TOTAL DE REPRODUCCIONES                  68545
+     INGRESOS POR PUBLICIDAD               $  13.71
+     ENGAGEMENT INDEX                          9.55
+
+======================================================================================================================================================
+CANAL No 19
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      DRDISRESPECT                  D9988       05/12/2023                    76568                       7422911                         47683
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           30/08/2025                         01:30:22                         45.18                          3.97
+           06/08/2025                         00:38:53                         19.44                          2.16
+           19/08/2025                         02:24:11                         72.09                          2.67
+           25/08/2025                         02:23:11                         71.59                          0.80
+           18/07/2025                         00:55:39                         27.82                          0.99
+           27/08/2025                         02:07:32                         63.77                          3.02
+           21/08/2025                         01:02:56                         31.47                          2.45
+           02/08/2025                         00:41:46                         20.88                          3.31
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 11:44:30
+     INGRESOS POR DURACION                 $ 352.25
+     TOTAL DE REPRODUCCIONES                  96831
+     INGRESOS POR PUBLICIDAD               $  19.37
+     ENGAGEMENT INDEX                          3.16
+
+======================================================================================================================================================
+CANAL No 20
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      NOBRU                         N7269       04/02/2023                   183911                      17820367                         22759
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           27/08/2025                         02:27:02                         73.52                          0.86
+           02/09/2025                         01:38:06                         49.05                          0.41
+           13/08/2025                         02:22:15                         71.12                          3.90
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 06:27:23
+     INGRESOS POR DURACION                 $ 193.69
+     TOTAL DE REPRODUCCIONES                  25864
+     INGRESOS POR PUBLICIDAD               $   5.17
+     ENGAGEMENT INDEX                         15.91
+
+======================================================================================================================================================
+CANAL No 21
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      ALANZOKA                      A1791       01/06/2023                  1445590                      39439261                         85073
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           24/08/2025                         00:51:47                         25.89                          3.40
+           27/07/2025                         01:48:23                         54.19                          0.83
+           15/07/2025                         00:00:10                          0.08                          1.80
+           21/08/2025                         00:43:47                         21.89                          3.99
+           14/08/2025                         01:33:31                         46.76                          3.54
+           27/08/2025                         02:09:56                         64.97                          0.74
+           19/08/2025                         01:34:04                         47.03                          3.21
+           24/07/2025                         02:07:23                         63.69                          0.26
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 10:49:01
+     INGRESOS POR DURACION                 $ 324.51
+     TOTAL DE REPRODUCCIONES                  88903
+     INGRESOS POR PUBLICIDAD               $  17.78
+     ENGAGEMENT INDEX                         21.63
+
+======================================================================================================================================================
+CANAL No 22
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      DAKOTAZ                       D6103       12/04/2023                   128907                      21331882                         26572
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           01/08/2025                         01:32:46                         46.38                          3.29
+           24/07/2025                         02:04:30                         62.25                          1.56
+           15/07/2025                         00:36:16                         18.13                          3.67
+           20/07/2025                         00:50:25                         25.21                          2.23
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 05:03:57
+     INGRESOS POR DURACION                 $ 151.97
+     TOTAL DE REPRODUCCIONES                  53755
+     INGRESOS POR PUBLICIDAD               $  10.75
+     ENGAGEMENT INDEX                         12.88
+
+======================================================================================================================================================
+CANAL No 23
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      BLASTPREMIER                  B7959       19/11/2023                   552959                      23472239                         42230
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           16/07/2025                         00:35:46                         17.88                          3.34
+           05/08/2025                         02:17:20                         68.67                          0.83
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 02:53:06
+     INGRESOS POR DURACION                 $  86.55
+     TOTAL DE REPRODUCCIONES                  20851
+     INGRESOS POR PUBLICIDAD               $   4.17
+     ENGAGEMENT INDEX                         18.65
+
+======================================================================================================================================================
+CANAL No 24
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      LEC                           L1975       18/08/2023                   704327                      18756705                         45671
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           02/09/2025                         02:20:21                         70.17                          3.20
+           20/07/2025                         02:29:54                         74.95                          1.37
+           24/08/2025                         01:54:16                         57.13                          1.44
+           17/07/2025                         01:28:51                         44.42                          1.57
+           26/08/2025                         00:15:15                          7.62                          1.94
+           18/07/2025                         01:41:32                         50.77                          0.48
+           31/07/2025                         00:46:50                         23.42                          2.34
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 10:56:59
+     INGRESOS POR DURACION                 $ 328.49
+     TOTAL DE REPRODUCCIONES                  61695
+     INGRESOS POR PUBLICIDAD               $  12.34
+     ENGAGEMENT INDEX                         19.53
+
+======================================================================================================================================================
+CANAL No 25
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      CASTRO_1021                   C4173       20/01/2023                   365303                      13585178                         32671
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           14/08/2025                         01:32:42                         46.35                          2.22
+           28/07/2025                         01:19:34                         39.78                          2.25
+           13/08/2025                         00:54:48                         27.40                          3.79
+           30/07/2025                         00:57:26                         28.72                          3.69
+           20/07/2025                         00:51:28                         25.73                          0.39
+           22/07/2025                         00:21:38                         10.82                          1.04
+           06/08/2025                         01:01:40                         30.83                          2.82
+           31/07/2025                         02:23:06                         71.55                          3.69
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 09:22:22
+     INGRESOS POR DURACION                 $ 281.18
+     TOTAL DE REPRODUCCIONES                  99428
+     INGRESOS POR PUBLICIDAD               $  19.89
+     ENGAGEMENT INDEX                         15.34
+
+======================================================================================================================================================
+CANAL No 26
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      JLTOMY                        J9571       17/06/2023                   192000                      16800930                        100330
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           27/07/2025                         01:10:53                         35.44                          3.87
+           20/07/2025                         00:55:58                         27.98                          1.53
+           17/07/2025                         02:15:28                         67.73                          3.75
+           21/08/2025                         02:08:55                         64.46                          2.96
+           01/08/2025                         00:23:03                         11.53                          2.65
+           01/09/2025                         00:57:53                         28.94                          2.36
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 07:52:10
+     INGRESOS POR DURACION                 $ 236.08
+     TOTAL DE REPRODUCCIONES                  85585
+     INGRESOS POR PUBLICIDAD               $  17.12
+     ENGAGEMENT INDEX                          3.59
+
+======================================================================================================================================================
+CANAL No 27
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      ELRAENN                       E5537       16/12/2023                   136341                      60194490                         66781
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           16/08/2025                         01:04:03                         32.02                          2.76
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 01:04:03
+     INGRESOS POR DURACION                 $  32.02
+     TOTAL DE REPRODUCCIONES                  13807
+     INGRESOS POR PUBLICIDAD               $   2.76
+     ENGAGEMENT INDEX                         11.06
+
+======================================================================================================================================================
+CANAL No 28
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      MIZKIF                        M8991       23/04/2023                   489250                      18504106                         43397
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           07/08/2025                         00:51:55                         25.96                          3.51
+           06/08/2025                         00:19:29                          9.74                          1.07
+           03/09/2025                         01:35:19                         47.66                          0.81
+           20/08/2025                         00:04:34                          2.28                          1.57
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 02:51:17
+     INGRESOS POR DURACION                 $  85.64
+     TOTAL DE REPRODUCCIONES                  34825
+     INGRESOS POR PUBLICIDAD               $   6.97
+     ENGAGEMENT INDEX                         15.54
+
+======================================================================================================================================================
+CANAL No 29
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      ACEU                          A2849       20/02/2023                   197486                      23738903                         36971
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           01/08/2025                         01:58:26                         59.22                          0.71
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 01:58:26
+     INGRESOS POR DURACION                 $  59.22
+     TOTAL DE REPRODUCCIONES                   3530
+     INGRESOS POR PUBLICIDAD               $   0.71
+     ENGAGEMENT INDEX                         11.76
+
+======================================================================================================================================================
+CANAL No 30
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      RIOTGAMES                     R8571       02/08/2023                  2085831                      45579002                        112160
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           28/07/2025                         00:48:21                         24.18                          3.65
+           29/08/2025                         00:05:27                          2.73                          1.81
+           11/08/2025                         00:56:09                         28.07                          3.73
+           10/08/2025                         00:15:20                          7.67                          2.33
+           01/09/2025                         01:34:23                         47.19                          1.27
+           03/08/2025                         00:31:45                         15.88                          2.78
+           10/08/2025                         02:14:19                         67.16                          2.24
+           15/08/2025                         00:17:01                          8.51                          2.94
+           20/08/2025                         02:22:07                         71.06                          3.56
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 09:04:52
+     INGRESOS POR DURACION                 $ 272.43
+     TOTAL DE REPRODUCCIONES                 121582
+     INGRESOS POR PUBLICIDAD               $  24.32
+     ENGAGEMENT INDEX                         22.66
+
+======================================================================================================================================================
+CANAL No 31
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      MAXIMILIAN_DOOD               M9073       19/12/2023                   216021                      24144005                         29597
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           30/07/2025                         01:10:29                         35.24                          0.37
+           14/08/2025                         00:56:04                         28.03                          2.85
+           26/07/2025                         01:55:00                         57.50                          3.79
+           19/07/2025                         00:11:12                          5.60                          1.63
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 04:12:45
+     INGRESOS POR DURACION                 $ 126.38
+     TOTAL DE REPRODUCCIONES                  43138
+     INGRESOS POR PUBLICIDAD               $   8.63
+     ENGAGEMENT INDEX                         15.46
+
+======================================================================================================================================================
+CANAL No 32
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      IZAKOOO                       I3408       01/11/2023                   833587                      30621257                        471281
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           17/08/2025                         01:59:28                         59.73                          3.38
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 01:59:28
+     INGRESOS POR DURACION                 $  59.73
+     TOTAL DE REPRODUCCIONES                  16908
+     INGRESOS POR PUBLICIDAD               $   3.38
+     ENGAGEMENT INDEX                          2.42
+
+======================================================================================================================================================
+CANAL No 33
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      SODAPOPPIN                    S2034       07/01/2023                  1400039                       6781403                        132224
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           16/08/2025                         02:18:28                         69.23                          0.33
+           23/07/2025                         00:13:00                          6.50                          3.36
+           27/07/2025                         00:08:11                          4.09                          3.19
+           22/08/2025                         00:33:06                         16.55                          1.20
+           05/08/2025                         02:22:43                         71.36                          0.20
+           11/08/2025                         01:46:59                         53.49                          0.41
+           03/09/2025                         00:25:54                         12.95                          1.77
+           18/07/2025                         01:25:49                         42.91                          1.58
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 09:14:10
+     INGRESOS POR DURACION                 $ 277.08
+     TOTAL DE REPRODUCCIONES                  60156
+     INGRESOS POR PUBLICIDAD               $  12.03
+     ENGAGEMENT INDEX                         11.10
+
+======================================================================================================================================================
+CANAL No 34
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      YBICANOOOOBOV                 Y7584       17/04/2023                   280538                      31029241                        146577
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           22/07/2025                         00:11:29                          5.74                          1.84
+           22/08/2025                         00:04:54                          2.45                          3.32
+           17/07/2025                         00:37:01                         18.51                          3.36
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 00:53:24
+     INGRESOS POR DURACION                 $  26.70
+     TOTAL DE REPRODUCCIONES                  42600
+     INGRESOS POR PUBLICIDAD               $   8.52
+     ENGAGEMENT INDEX                          4.03
+
+======================================================================================================================================================
+CANAL No 35
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      AGRAELUS                      A6396       23/11/2023                   517248                      24523589                         51854
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           19/07/2025                         01:42:45                         51.38                          2.27
+           27/08/2025                         00:50:58                         25.48                          0.97
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 02:33:43
+     INGRESOS POR DURACION                 $  76.86
+     TOTAL DE REPRODUCCIONES                  16215
+     INGRESOS POR PUBLICIDAD               $   3.24
+     ENGAGEMENT INDEX                         14.70
+
+======================================================================================================================================================
+CANAL No 36
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      SADDUMMY                      S2112       10/07/2023                   723082                       7527027                         74199
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           17/07/2025                         01:59:03                         59.52                          3.37
+           14/08/2025                         00:38:55                         19.46                          3.43
+           03/09/2025                         01:51:36                         55.80                          2.32
+           16/07/2025                         01:41:04                         50.53                          1.13
+           26/07/2025                         00:37:45                         18.88                          0.75
+           01/08/2025                         01:15:30                         37.75                          2.90
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 08:03:53
+     INGRESOS POR DURACION                 $ 241.94
+     TOTAL DE REPRODUCCIONES                  69511
+     INGRESOS POR PUBLICIDAD               $  13.90
+     ENGAGEMENT INDEX                         10.76
+
+======================================================================================================================================================
+CANAL No 37
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      TEEPEE                        T9471       16/10/2023                   244295                       8815201                         96236
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           24/08/2025                         01:30:16                         45.13                          3.02
+           07/08/2025                         00:31:41                         15.84                          3.65
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 02:01:57
+     INGRESOS POR DURACION                 $  60.98
+     TOTAL DE REPRODUCCIONES                  33316
+     INGRESOS POR PUBLICIDAD               $   6.66
+     ENGAGEMENT INDEX                          3.45
+
+======================================================================================================================================================
+CANAL No 38
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      METHOD                        M5335       28/10/2023                   558107                      14533643                         40497
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           16/07/2025                         01:12:20                         36.17                          1.24
+           31/07/2025                         01:19:09                         39.58                          2.89
+           24/08/2025                         00:22:16                         11.13                          3.85
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 02:53:45
+     INGRESOS POR DURACION                 $  86.88
+     TOTAL DE REPRODUCCIONES                  39921
+     INGRESOS POR PUBLICIDAD               $   7.98
+     ENGAGEMENT INDEX                         17.37
+
+======================================================================================================================================================
+CANAL No 39
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      ELDED                         E6652       18/01/2023                   763489                      15894732                         26141
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           11/08/2025                         01:46:31                         53.26                          2.29
+           22/08/2025                         01:00:56                         30.47                          3.11
+           27/08/2025                         00:30:10                         15.08                          3.30
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 03:17:37
+     INGRESOS POR DURACION                 $  98.81
+     TOTAL DE REPRODUCCIONES                  43489
+     INGRESOS POR PUBLICIDAD               $   8.70
+     ENGAGEMENT INDEX                         35.29
+
+======================================================================================================================================================
+CANAL No 40
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      GAMESDONEQUICK                G7015       10/01/2023                    37883                      12800182                         13080
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           16/07/2025                         00:58:54                         29.45                          1.79
+           25/07/2025                         02:08:28                         64.23                          0.55
+           31/07/2025                         01:23:41                         41.84                          2.20
+           14/08/2025                         00:55:28                         27.73                          2.92
+           16/08/2025                         02:05:37                         62.81                          1.14
+           30/07/2025                         01:13:51                         36.92                          3.82
+           26/07/2025                         02:20:57                         70.47                          0.16
+           15/08/2025                         00:05:30                          2.75                          3.57
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 11:12:26
+     INGRESOS POR DURACION                 $ 336.22
+     TOTAL DE REPRODUCCIONES                  80747
+     INGRESOS POR PUBLICIDAD               $  16.15
+     ENGAGEMENT INDEX                         12.68
+
+======================================================================================================================================================
+CANAL No 41
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      POKIMANE                      P6114       11/05/2023                   286467                      23586902                         43050
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           04/08/2025                         01:21:55                         40.96                          1.89
+           16/07/2025                         00:02:46                          1.38                          3.88
+           10/08/2025                         00:00:09                          0.07                          2.02
+           22/07/2025                         01:55:46                         57.88                          3.68
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 03:20:36
+     INGRESOS POR DURACION                 $ 100.30
+     TOTAL DE REPRODUCCIONES                  57366
+     INGRESOS POR PUBLICIDAD               $  11.47
+     ENGAGEMENT INDEX                         12.13
+
+======================================================================================================================================================
+CANAL No 42
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      HASANABI                      H3911       01/01/2023                   137229                      17857171                         87751
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           29/08/2025                         01:41:44                         50.87                          0.53
+           18/08/2025                         00:29:56                         14.97                          1.02
+           13/08/2025                         00:46:12                         23.10                          1.76
+           08/08/2025                         00:12:27                          6.22                          2.08
+           11/08/2025                         01:46:55                         53.46                          3.02
+           03/08/2025                         01:09:53                         34.94                          2.19
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 06:07:07
+     INGRESOS POR DURACION                 $ 183.56
+     TOTAL DE REPRODUCCIONES                  53005
+     INGRESOS POR PUBLICIDAD               $  10.60
+     ENGAGEMENT INDEX                          3.60
+
+======================================================================================================================================================
+CANAL No 43
+      NOMBRE                        CODIGO      CREADO EL           SEGUIDORES NUEVOS POR MES     VISITAS NUEVAS POR MES        MAXIMO DE ESPECTADORES
+      TIMTHETATMAN                  T6688       03/02/2023                   189847                      20714971                         45726
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     ULTIMAS REPRODUCCIONES
+           FECHA DE PUBLICACION          TIEMPO DE DURACION            INGRESOS POR DURACION         NUMERO DE REPRODUCCIONES
+           23/07/2025                         00:47:12                         23.60                          3.32
+           03/09/2025                         02:23:06                         71.55                          3.03
+           19/07/2025                         01:15:52                         37.93                          2.91
+           05/08/2025                         01:09:45                         34.88                          2.68
+           18/07/2025                         02:27:58                         73.98                          2.08
+           21/07/2025                         00:25:21                         12.68                          3.95
+           30/08/2025                         01:48:35                         54.29                          2.22
+           17/07/2025                         01:46:10                         53.08                          1.12
+           03/09/2025                         01:38:10                         49.08                          2.54
+------------------------------------------------------------------------------------------------------------------------------------------------------
+     RESUMEN DEL CANAL:
+     DURACION TOTAL DE LAS REPRODUCCIONES: 13:42:09
+     INGRESOS POR DURACION                 $ 411.07
+     TOTAL DE REPRODUCCIONES                 119265
+     INGRESOS POR PUBLICIDAD               $  23.85
+     ENGAGEMENT INDEX                          8.68
+
+======================================================================================================================================================
+RESUMEN FINAL: 
+CANTIDAD TOTAL DE STREAMS COLOCADOS POR CANALES:       217
+DURACION TOTAL DE LOS STREAMS PUBLICADOS: 258:55:03
+INGRESOS TOTALES POR DURACION:        $ 7767.53
+INGRESOS TOTALES POR PUBLICIDAD:      $  488.39
