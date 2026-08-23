@@ -1,12 +1,12 @@
-/*------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------*/
 /*  Autor           :   Naim Diestra
 /*  Fecha creación  :   11/12/2025
- *  Actualización   :   02/05/2026
+/*  Actualización   :   02/05/2026
 /*  Descripción     :   Se almacenan los datos de los archivos Categorias.txt y Reproducciones.txt
 /*                      en arrays creados convenientemente a estos y se emite su respectivo reporte
 /*                      de verificación. Luego, se crea un archivo por categoría donde se emitirá
 /*                      su correspondiente reporte completo con reproducciones y resumen.
-/*------------------------------------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------------------------*/
 
 #include "Bibliotecas/FuncionesAuxiliares.h"
 #define MAX_STREAM 450
