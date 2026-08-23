@@ -1,3 +1,8 @@
+/*
+ * Autor    :    Naim Diestra
+ * Fecha    :    26/01/2026 
+*/
+
 #include "Bibliotecas/FuncionesAuxiliares.h"
 #define MAX_CLIE 100
 #define MAX_LIBR 300
