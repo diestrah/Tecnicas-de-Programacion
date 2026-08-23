@@ -1,9 +1,9 @@
-/*
- *  Autor       :   Naim Diestra
- *  Fecha       :   03/05/2026
- *  Descripción :   pendiente xd
- *  Falta corregir la forma en que se buscan las placas y los subtitulos
- */
+/*----------------------------------------------------------------------------------------*/
+/*  Autor           :   Naim Diestra
+/*  Fecha creación  :   26/01/2026 
+/*  Descripción :   pendiente xd
+/*  Falta corregir la forma en que se buscan las placas y los subtitulos
+/*----------------------------------------------------------------------------------------*/
 
 #include "Bibliotecas/FuncionesAuxiiares.h"
 #define MAX_EMPR 50
