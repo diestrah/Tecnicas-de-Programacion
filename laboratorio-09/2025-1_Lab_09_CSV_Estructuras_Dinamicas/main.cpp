@@ -1,3 +1,8 @@
+/*
+ * Autor    :    Naim Diestra
+ * Fecha    :    03/02/2026
+ */
+
 #include "Bibliotecas/FuncionesAuxiliares.h"
 #define MAX_INFR 150
 #define MAX_EMPR 50
