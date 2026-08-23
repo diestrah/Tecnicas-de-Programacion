@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------------------*/
 /*  Autor           :   Naim Diestra
 /*  Fecha creación  :   26/01/2026 
-/*  Descripción :   pendiente xd
+/*  Descripción     :   pendiente xd
 /*  Falta corregir la forma en que se buscan las placas y los subtitulos
 /*----------------------------------------------------------------------------------------*/
 
