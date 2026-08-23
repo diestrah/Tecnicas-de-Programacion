@@ -1,3 +1,9 @@
+/*----------------------------------------------------------------------------------------*/
+/*  Autor           :   Naim Diestra
+/*  Fecha creación  :   25/01/2026 
+/*----------------------------------------------------------------------------------------*/
+
+
 #include "Bibliotecas/FuncionesAuxiliares.h"
 #define MAX_CLIE 120
 #define MAX_PLAT 120
@@ -20,5 +26,6 @@ int main() {
     ordenarClientes(arrClientes, numClientes);
     ordenarPlatos(arrPlatos, numPlatos);
     emitirReporte("ArchivosDeReportes/PedidosAtendidos.txt", arrClientes, numClientes);
+    
     return 0;
 }
