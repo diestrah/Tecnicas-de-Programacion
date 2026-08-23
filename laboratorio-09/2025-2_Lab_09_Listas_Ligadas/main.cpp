@@ -10,6 +10,7 @@
 /*  emite el reporte completo, elimina las categorías con promedio de drop-off menor a 3.5
 /*  y finalmente genera un reporte con la lista resultante (utiliza la misma función de impresión).
 /*----------------------------------------------------------------------------------------*/
+
 #include "Bibliotecas/FuncionesAuxiliares.h"
 
 int main() {
