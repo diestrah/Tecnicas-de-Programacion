@@ -1,5 +1,5 @@
 /*----------------------------------------------------------------------------------------*/
-/*  Autor           :   Naim Diestra
+/*  Elaborado por   :   Naim Diestra
 /*  Fecha creación  :   10/12/2025
 /*  Actualización   :   03/05/2026
 /*  Descripción     :   Almacena en un array de estructuras datos de archivos Categorias.csv
