@@ -1,0 +1,40 @@
+DNI         NOMBRE                                  DISTRITO                      PLACAS                                                      
+79672079    CONTRERAS CHANG JOHANA CINTHIA          CHORRILLOS                    P599-629/P282-128/M852-620                                  
+77763722    FARFAN SALAZAR MARGOT                   LA MOLINA                     P163-421/P482-255/M277-299                                  
+19568447    VEGA SORIA HENRRY                       SAN JUAN DE LURIGANCHO        M907-605                                                    
+81528434    EPIQUEN AVILA ENRIQUE                   JESUS MARIA                   G377-489/M832-314/M837-854/P325-587/G650-450                
+47844324    VILCA LEE NESTOR HUGO                   COMAS                         P618-120                                                    
+86718074    ESCALANTE ROJAS INES ADRIA              JESUS MARIA                   G368-136                                                    
+12270502    CUEVA FUENTES CINTHIA DELIA             EL AGUSTINO                   G855-340/G266-362/P246-429/G991-678/G250-663                
+48528209    ZAVALETA CORONADO FELICITA ELOISA       VILLA MARIA DEL TRIUNFO       G262-654/G958-240/G402-859/P156-716/G400-314                
+88167677    PRADO VERA JUAN                         SAN MIGUEL                    G264-957/G325-333/P665-969/M366-914/M435-175                
+12858682    ZARATE PEREZ ALEXANDER                  BARRANCO                      M207-572/G520-337/M137-958                                  
+75348522    LOZADA FORZANI DELIA                    INDEPENDENCIA                 G113-951/G841-644/P310-575/G938-356/G744-786                
+87495937    MORALES PASQUEL KARIN MARIBEL           INDEPENDENCIA                 G329-867                                                    
+81485316    JUSTINO MARTINEZ ENRIQUE                SANTA MARIA DEL MAR           P486-917/M500-707/G156-830/M774-204/G710-594                
+81799482    CERNA CERNA CINTHIA                     PUCUSANA                      G605-765/M359-944/G592-689/M561-874/G635-752                
+13219606    RODRIGUEZ MORENO BLANCA OFELIA          PUEBLO LIBRE                  P201-291/M312-270                                           
+73818744    FUENTES GAMARRA HUGO                    PUEBLO LIBRE                  G662-512/G393-114/P251-666/G938-342                         
+85501710    VIZCARDO SINCHE MARIBEL                 SAN BORJA                     M651-665/P532-434                                           
+12443643    LEE SERRANO ROSARIO                     SANTA MARIA DEL MAR           M421-807/G926-575/P235-315/M483-214                         
+82870470    SEDANO RETAMOSO ELIA YOLANDA            RIMAC                         P478-603/P516-487                                           
+48450395    RAMIREZ ASTETE KARINA ESTEFANIA         MAGDALENA DEL MAR             P692-666/G328-654/M317-350/P559-672                         
+79641328    TOKESHI GUEVARA JAIME                   CIENEGUILLA                   G734-120/M512-863/G437-799                                  
+89314225    RIOS DURAND CARLOS EDILBERTO            CERCADO DE LIMA               P355-270/G760-721/P152-838/G256-432/M288-737                
+86429854    MOSCOSO LAURA JANET VALENTINA           PUNTA HERMOSA                 M580-968/P364-899/M510-956/G374-384/M360-947                
+84186239    RIVERO CORONADO HECTOR ALONSO JOSE      LINCE                         P582-282/G872-544                                           
+80457845    NORABUENA MOYA HECTOR                   JESUS MARIA                   G616-581/P670-603/G874-915/G410-582/M912-415                
+90467829    IPARRAGUIRRE PEREZ NICOLAS              MIRAFLORES                    P985-495/G189-507/P863-768/M844-240/G600-343                
+88854166    PINTO ROJAS JUVENAL FRANCISCO           JESUS MARIA                   P324-421/G411-657/M257-722/G568-563/P131-555                
+77367073    JAUREGUI DEL CASTILLO VICTOR RICARDO    SAN JUAN DE MIRAFLORES        G974-598/G542-724/M655-400                                  
+73567806    ARCA SANCHEZ MAGALI BEATRIZ IRIS        SANTA ANITA                   M993-637/P426-388/M666-407/G458-550                         
+89941095    ARCA LARRIEGA LUCERO YLIANA             COMAS                         P860-616/G226-459/P474-593/G138-788/M708-335                
+87282766    SUAREZ CHANG GLORIA                     SAN BARTOLO                   M440-802                                                    
+73972114    AVILA MARTEL JAIME MANUEL               SAN JUAN DE LURIGANCHO        M862-577/G657-925/M646-319/M655-864/P255-643                
+79766395    FUENTES ESCALANTE PATRICIA ELIZABETH    SANTA ANITA                   G485-562/P195-859/G763-950                                  
+74325123    TANG MOSCOSO JOHANA                     LA MOLINA                     P905-539/P770-513/G968-856/G214-608/M348-264                
+13628871    QUIROGA HERNANDEZ SILVANA ZKENIA MARIA  INDEPENDENCIA                 P203-441                                                    
+75945248    MEJIA RODRIGUEZ INES VALENTINA          PUNTA HERMOSA                 P939-759/G450-448/G721-932                                  
+80310768    MINAYA BERROCAL HELI                    CARABAYLLO                    M982-853/G752-478/G893-799/M267-848/M477-146                
+47528229    SAAVEDRA GONZALES WILMER                CHORRILLOS                    P325-365/M466-711                                           
+82031355    EGUSQUIZA BERROCAL DORIS NANCY          PUCUSANA                      P386-900/M599-949                                           
